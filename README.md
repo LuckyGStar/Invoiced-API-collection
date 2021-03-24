@@ -1,25 +1,22 @@
-# README
+# Invoiced Library Usage in Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is just an application that makes api request to the invoiced.com and get responses.
 
-Things you may want to cover:
+It includes below areas:
 
-* Ruby version
+* Invoiced api request
 
-* System dependencies
+* Payment source creation
 
-* Configuration
+* Token generation with invoiced.js
 
-* Database creation
+Steps for experiencing this app in local:
 
-* Database initialization
+* Clone repository
 
-* How to run the test suite
+* Run `bundle install`
 
-* Services (job queues, cache servers, search engines, etc.)
+* Run `Rails s`
 
-* Deployment instructions
+You are good to go!
 
-* ...
-# Invoiced-API-collection
